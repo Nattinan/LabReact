@@ -1,8 +1,6 @@
-import React, { Component } from 'react';
-import './App.css';
-import CharacterCard from './CharacterCard';
-
-  
+//import React, { Component } from 'react';
+//import './App.css';
+//import CharacterCard from './CharacterCard';
 cconst word = "Hello";
 class App extends Component {
  render() {
