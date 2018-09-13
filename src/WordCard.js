@@ -1,3 +1,6 @@
+import React, { Component } from 'react';
+import './App.css';
+import CharacterCard from './CharacterCard';
 export default class WordCard extends
 Component {
 render() {
