@@ -4,15 +4,15 @@ import './App.css';
 const word = "Hello";
 
 class App extends Component {
- render() {
-  return (
-    <div>
-    <WordCard value="hello"/>
-    </div>
-   
- );
- }
+  render() {
+    return (
+      <div>
+        <WordCard value="hello" />
+      </div>
+
+    );
+  }
 }
 
- 
+
 export default App;
